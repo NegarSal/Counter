@@ -1,0 +1,11 @@
+#ff99ffhtml,
+body{
+  flex-direction: column;
+  height:100%;
+  max-height: 100%;
+  font-family:'Indie Flower', cursive;
+  text-align: center;
+  background-color: #ffcccc;
+  
+  
+}
